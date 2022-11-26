@@ -1,4 +1,4 @@
-# AutoSchedule
+# AutoScheduler
 An app that can tell you how many minutes you need to spend every day for each individual subject for IITM BS Degree.
 App is still a work-in-progress.
 
